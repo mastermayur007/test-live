@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_dashboard=self.webpackChunkreact_dashboard||[]).push([[393],{459:function(n,r,t){t.r(r),t.d(r,{default:function(){return e}});t(791);var a=t(184),e=function(){return(0,a.jsx)("div",{children:"Notifications"})}}}]);
+//# sourceMappingURL=393.7825b4f5.chunk.js.map

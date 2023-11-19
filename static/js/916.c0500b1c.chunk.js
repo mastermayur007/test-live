@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_dashboard=self.webpackChunkreact_dashboard||[]).push([[916],{916:function(e,r,n){n.r(r),n.d(r,{default:function(){return t}});n(791);var a=n(184),t=function(){return(0,a.jsx)("div",{children:"Reviews"})}}}]);
+//# sourceMappingURL=916.c0500b1c.chunk.js.map
